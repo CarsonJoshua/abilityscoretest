@@ -1,0 +1,6 @@
+Two-Six Score: 474115
+Best of Seven Score: 453816
+Tie Score: 72069
+Two-Six Tops: 253916
+Seven Tops: 82451
+Top Ties: 663633
